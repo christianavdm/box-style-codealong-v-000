@@ -243,9 +243,9 @@ header {
 }
 
 #navbar nav a:hover {
-  color: white; 
+  color: white;
   /* NAVBAR-HOVER */
- 
+
 background: rgb(0, 0, 0); /* Old browsers */
 background: -moz-linear-gradient(
   top,
